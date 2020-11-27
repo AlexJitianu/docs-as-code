@@ -1,0 +1,9 @@
+validateCheckDITA -i mobilePhoneProjectFile.xml -s settings.xml
+
+translationPackageBuilder -gm -i flowers.ditamap
+translationPackageBuilder -gp -i flowers.ditamap -p package.zip
+translationPackageBuilder -ap -i flowers.ditamap -p package.zip
+
+batchConverter -i cherryBlossom.docx -if word -of dita -o .
+
+compileFrameworkScript -i .

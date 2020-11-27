@@ -26,7 +26,7 @@
 					<Boolean>false</Boolean>
 				</field>
 				<field name="checkForDuplicateSelected">
-					<Boolean>false</Boolean>
+					<Boolean>true</Boolean>
 				</field>
 				<field name="onlyTopicInMap">
 					<Boolean>true</Boolean>
@@ -41,19 +41,19 @@
 					<Boolean>true</Boolean>
 				</field>
 				<field name="reportDuplicateTopics">
-					<Boolean>false</Boolean>
+					<Boolean>true</Boolean>
 				</field>
 				<field name="reportExternalReferences">
-					<Boolean>false</Boolean>
+					<Boolean>true</Boolean>
 				</field>
 				<field name="reportDuplicateKeyDefs">
-					<Boolean>false</Boolean>
+					<Boolean>true</Boolean>
 				</field>
 				<field name="reportNotUsedKeyDefs">
-					<Boolean>false</Boolean>
+					<Boolean>true</Boolean>
 				</field>
 				<field name="reportUnusedElemsWithID">
-					<Boolean>false</Boolean>
+					<Boolean>true</Boolean>
 				</field>
 				<field name="ditavalFilePaths">
 					<list/>
