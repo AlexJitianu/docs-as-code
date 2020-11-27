@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topicID1">
+        <title>Cherry blossom</title>
+        <body>
+            <p>
+                <i>Text content from Wikipedia, the free encyclopedia</i>
+            </p>
+            <p>A <b>cherry blossom</b> is a <xref href="https://en.wikipedia.org/wiki/Flower" format="html" scope="external">flower</xref> of many trees of genus <xref href="https://en.wikipedia.org/wiki/Prunus" format="html" scope="external"><i>Prunus</i></xref>. The most well-known species is the <b>Japanese
+                    cherry</b>, <xref href="https://en.wikipedia.org/wiki/Prunus_serrulata" format="html" scope="external"><i>Prunus serrulata</i></xref>, which is commonly
+                called <b>sakura</b> (<xref href="https://en.wiktionary.org/wiki/%E6%A1%9C#Japanese" format="html" scope="external">桜</xref> or <xref href="https://en.wiktionary.org/wiki/%E6%AB%BB#Japanese" format="html" scope="external">櫻</xref>; <xref href="https://en.wiktionary.org/wiki/%E3%81%95%E3%81%8F%E3%82%89" format="html" scope="external">さくら</xref>).</p>
+            <p>
+                <image href="media/img.png"/>
+            </p>
+            <p>They are widely distributed, especially in the <xref href="https://en.wikipedia.org/wiki/Temperate_climate" format="html" scope="external">temperate zone</xref> of the <xref href="https://en.wikipedia.org/wiki/Northern_Hemisphere" format="html" scope="external">Northern Hemisphere</xref> including Japan, Taiwan, Korea,
+                Mainland China, Nepal, India, Pakistan, Afghanistan, Iran, Myanmar, Thailand and
+                West Siberia. Along with the <xref href="https://en.wikipedia.org/wiki/Chrysanthemum#Japan" format="html" scope="external">chrysanthemum</xref>, the cherry blossom is considered the
+                    <xref href="https://en.wikipedia.org/wiki/National_flower" format="html" scope="external">national flower</xref> of Japan.</p>
+            <p>All varieties of cherry blossom trees produce small, unpalatable fruit or edible
+                    <xref href="https://en.wikipedia.org/wiki/Cherry" format="html" scope="external">cherries</xref>. Edible cherries generally come from cultivars of the related
+                species <xref href="https://en.wikipedia.org/wiki/Prunus_avium" format="html" scope="external"><i>Prunus avium</i></xref> and <xref href="https://en.wikipedia.org/wiki/Prunus_cerasus" format="html" scope="external"><i>Prunus cerasus</i></xref>.</p>
+        </body>
+    </topic>
+    <topic id="topicID2">
+        <title>Culinary use</title>
+        <body>
+            <p>Cherry blossoms and leaves are edible and both are used as food ingredients in
+                Japan:</p>
+            <ul>
+                <li>The blossoms are pickled in salt and <xref href="https://en.wikipedia.org/wiki/Umeboshi" format="html" scope="external">umezu (ume vinegar)</xref>, and used for coaxing out flavor in <xref href="https://en.wikipedia.org/wiki/Wagashi" format="html" scope="external">wagashi</xref>, (a <xref href="https://en.wikipedia.org/wiki/Traditional" format="html" scope="external">traditional</xref> Japanese confectionery,)
+                    or <xref href="https://en.wikipedia.org/wiki/Anpan" format="html" scope="external">anpan</xref>, (a Japanese sweet <xref href="https://en.wikipedia.org/wiki/Bun" format="html" scope="external">bun</xref>, most-commonly filled with <xref href="https://en.wikipedia.org/wiki/Red_bean_paste" format="html" scope="external">red bean paste</xref>).</li>
+                <li>Salt-pickled blossoms in hot water are called <xref href="https://en.wikipedia.org/wiki/Sakurayu" format="html" scope="external">sakurayu</xref>, and drunk at festive events like weddings in place of
+                        <xref href="https://en.wikipedia.org/wiki/Green_tea" format="html" scope="external">green tea</xref>.</li>
+                <li>The <xref href="https://en.wikipedia.org/wiki/Leaf" format="html" scope="external">leaves</xref>, mostly from the <xref href="https://en.wikipedia.org/wiki/Prunus_speciosa" format="html" scope="external">Ōshima cherry</xref> because of the softness, are also
+                    pickled in salted water and used for <xref href="https://en.wikipedia.org/wiki/Sakuramochi" format="html" scope="external">sakuramochi</xref>.</li>
+                <li>The fruit, the <i>sakuranbo</i>, is small and does not have much flesh beyond
+                    the seed within. Due to their bitter taste, the <i>sakuranbo</i> should not be
+                    eaten raw, or whole; the seed inside should be removed and the fruit-itself
+                    processed as preserves.</li>
+            </ul>
+            <p>Since the leaves contain <xref href="https://en.wikipedia.org/wiki/Coumarin" format="html" scope="external">coumarin</xref>, which is toxic in large doses,
+                it is not recommended to eat them in great quantities. Likewise, the seeds should
+                not be eaten.</p>
+        </body>
+    </topic>
+</dita>

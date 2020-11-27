@@ -1,0 +1,21 @@
+------START-LICENSE-KEY------
+
+Registration_Name=Demo License
+
+Company=
+
+Category=Enterprise
+
+Component=Scripting
+
+Version=23
+
+Number_of_Licenses=1
+
+Date=11-22-2020
+
+Trial=61
+
+SGN=MCwCFA6f07aWXdg4V+gebC5s0Y0imaseAhQHB9AZPq6bzyf1nPsciaPPoTxG7w\=\=
+
+-------END-LICENSE-KEY-------

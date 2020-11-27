@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources date="2020-11-24T14:33:52.742+02:00">
+    <info-resource>
+        <md5>48fea15bfd6acaef70abb397a223381f</md5>
+        <relativePath>flowers.ditamap</relativePath>
+    </info-resource>
+    <info-resource>
+        <md5>527318d774d6613864d9288b8a23c5cb</md5>
+        <relativePath>topics/introduction.dita</relativePath>
+    </info-resource>
+    <info-resource>
+        <md5>aae3e7882e7b9c7af85b010c16124ce4</md5>
+        <relativePath>topics/index.dita</relativePath>
+    </info-resource>
+    <info-resource>
+        <md5>30c9e613607415258ec993b699636c7f</md5>
+        <relativePath>concepts/springFlowers.dita</relativePath>
+    </info-resource>
+    <info-resource>
+        <md5>64b361fdc9ee663b55340821243c2631</md5>
+        <relativePath>topics/flowers/iris.dita</relativePath>
+    </info-resource>
+    <info-resource>
+        <md5>315f6ecacfbea1e33368b258c40d1e94</md5>
+        <relativePath>images/Iris_sanguinea.jpg</relativePath>
+    </info-resource>
+</resources>

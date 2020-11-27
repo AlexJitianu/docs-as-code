@@ -1,0 +1,21 @@
+------START-LICENSE-KEY------
+
+Registration_Name=Demo License
+
+Company=
+
+Category=Enterprise
+
+Component=Oxygen-Scripting
+
+Version=23
+
+Number_of_Licenses=1
+
+Date=11-22-2020
+
+Trial=61
+
+SGN=MCwCFEFDO1sEiI/LJSWhckY35Nk6gHy2AhRnpwMYbDjmu7vv/OPFdhGh657Bxw\=\=
+
+-------END-LICENSE-KEY-------

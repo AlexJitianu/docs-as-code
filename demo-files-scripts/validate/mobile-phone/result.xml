@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.oxygenxml.com/ns/report">
+<context>
+<id>x1000ModelContext</id>
+<name>x1000Model</name>
+<parentDitaOtProject>D:\Git-workspace\dita-and-markdown\demo-files-scripts\validate\mobile-phone\mobilePhoneProjectFile.xml</parentDitaOtProject>
+<incident>
+<engine>oXygen</engine>
+<severity>warning</severity>
+<description>Condition &quot;X1000&quot; set on the &quot;product&quot; attribute can never be effective because it is not present in the list of conditions from the ancestors: &quot;X2000&quot;.</description>
+<systemID>D:\Git-workspace\dita-and-markdown\demo-files-scripts\validate\mobile-phone\mobilePhone.ditamap</systemID>
+<profile>x1000</profile>
+<type>Profile</type>
+<location>
+<start>
+<line>26</line>
+<column>7</column>
+</start>
+<end>
+<line>26</line>
+<column>77</column>
+</end>
+</location>
+</incident>
+</context>
+<context>
+<id>x2000ModelContext</id>
+<name>x2000Model</name>
+<parentDitaOtProject>D:\Git-workspace\dita-and-markdown\demo-files-scripts\validate\mobile-phone\mobilePhoneProjectFile.xml</parentDitaOtProject>
+<incident>
+<engine>oXygen</engine>
+<severity>warning</severity>
+<description>Condition &quot;X1000&quot; set on the &quot;product&quot; attribute can never be effective because it is not present in the list of conditions from the ancestors: &quot;X2000&quot;.</description>
+<systemID>D:\Git-workspace\dita-and-markdown\demo-files-scripts\validate\mobile-phone\mobilePhone.ditamap</systemID>
+<profile>x2000</profile>
+<type>Profile</type>
+<location>
+<start>
+<line>26</line>
+<column>7</column>
+</start>
+<end>
+<line>26</line>
+<column>77</column>
+</end>
+</location>
+</incident>
+</context>
+</report>
