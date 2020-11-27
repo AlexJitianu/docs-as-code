@@ -57,8 +57,8 @@ java -jar bin/saxon9.jar bin/tmp/paper-expanded.sch $SCHEMATRON_DIR/iso_svrl_for
 echo "Apply  Schematron"
 java -cp bin/xml-resolver.jar:bin/saxon9.jar net.sf.saxon.Transform -catalog:$DITA_CATALOG -s:source/rule_based_validation_samples.dita -xsl:bin/tmp/paper-validate.xsl > bin/tmp/paper.svrl
 
-echo "--RESULT--"
-cat bin/tmp/paper.svrl
+# echo "--RESULT--"
+# cat bin/tmp/paper.svrl
 
 echo "Convert SVRL to SONAR"
 java -jar bin/svrl-to-sonar.jar bin/tmp/paper.svrl > bin/tmp/sonar-schematron.json
