@@ -12,10 +12,10 @@ Version=23
 
 Number_of_Licenses=1
 
-Date=11-22-2020
+Date=03-04-2021
 
-Trial=61
+Trial=91
 
-SGN=MCwCFA6f07aWXdg4V+gebC5s0Y0imaseAhQHB9AZPq6bzyf1nPsciaPPoTxG7w\=\=
+SGN=MCwCFAg5uRj7BVQpstR8vuNgE5Dh/bTYAhQG9ZTt8HKZyia8YZYDCvoDVUDgjQ\=\=
 
 -------END-LICENSE-KEY-------
