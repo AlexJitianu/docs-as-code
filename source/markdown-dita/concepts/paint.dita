@@ -12,5 +12,7 @@
     content here.</shortdesc>
 <conbody><p>Store unused 
 paint in the garage.</p>
-    <p>Something more.</p></conbody>
+    <p>Something more.<ol id="ol_m23_4wk_vpb">
+                <li>A list item</li>
+            </ol></p></conbody>
 </concept>
