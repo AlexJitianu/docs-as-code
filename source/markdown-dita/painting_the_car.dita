@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="painting_the_car">
+    <title>Painting the car</title>
+    <shortdesc>How to paint your car.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_lqb_rqg_wpb">A few things that you need:<ul id="ul_qs4_sqg_wpb">
+                <li>A power sander</li>
+                <li>Sanding pads</li>
+                <li>An air compressor</li>
+                <li>A paint sprayer</li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd>Choose Your Location Wisely</cmd>
+                <info>
+                    <p>Before you begin any actual painting, you will need to find a suitable
+                        location.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Remove rust, dents, and trim</cmd>
+                <info>
+                    <p>Make sure your paint job does not accentuate any imperfections – fix any
+                        visible dents, repair any rust, and remove chrome or plastic trim. </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Sand</cmd>
+                <info>
+                    <p>Give your paint a smooth and even surface onto which it can adhere – sand
+                        your entire vehicle using circular motions, either all the way to the bare
+                        metal, to the original primer, or at least enough for your new coat of paint
+                        to adhere to.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Paint</cmd>
+                <info>
+                    <p>Holding your spray gun approximately 6 inches away from your vehicle’s
+                        surface, and using a side-to-side sweeping motion, apply paint in thin and
+                        even coats.</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
