@@ -55,5 +55,6 @@ pwd
 sh $DITA_OT/bin/dita \
     --format=webhelp-responsive \
     --input=source/markdown-dita/garage.ditamap \
-    --output=bin/out/webhelp
+    --output=bin/out/webhelp \
+	-Dwebhelp.fragment.feedback=feedback-install.xml
 	

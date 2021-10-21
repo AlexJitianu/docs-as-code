@@ -1,6 +1,6 @@
 ------START-LICENSE-KEY------
 
-Registration_Name=Demo License
+Registration_Name=Syncro Soft
 
 Company=
 
@@ -8,14 +8,14 @@ Category=Enterprise
 
 Component=Oxygen-Scripting
 
-Version=23
+Version=24
 
 Number_of_Licenses=1
 
-Date=04-26-2021
+Date=10-19-2021
 
-Trial=61
+Trial=91
 
-SGN=MCwCFHT98l3XokBWrtMAF3J8ztM7yTAlAhRdwKMkrft5BqzTqmvSXZgxdoDWyQ\=\=
+SGN=MCwCFAQyLrZxtTn2ha9yim3fITUJGi7UAhRUNQtBjh0qysmunVncbILAfaaYqg\=\=
 
 -------END-LICENSE-KEY-------

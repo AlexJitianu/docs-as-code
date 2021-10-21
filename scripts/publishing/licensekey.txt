@@ -1,21 +1,21 @@
 ------START-LICENSE-KEY------
 
-Registration_Name=Demo License
+Registration_Name=Syncro Soft
 
 Company=
 
 Category=Enterprise
 
-Component=Scripting
+Component=Publishing-Engine
 
-Version=23
+Version=24
 
 Number_of_Licenses=1
 
-Date=04-26-2021
+Date=10-19-2021
 
-Trial=61
+Trial=91
 
-SGN=MC0CFCpgQcxh/YqmGI7YYR0yR+6GImLPAhUAkqe8SZbhcJbe0F4QLZtos2QYAK0\=
+SGN=MCwCFCFiswNlnbg/kbnqH7V9+QzDV+8oAhRd+DX3UussBgKI2zOAh/ioxb76ew\=\=
 
 -------END-LICENSE-KEY-------
