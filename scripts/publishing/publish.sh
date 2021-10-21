@@ -51,11 +51,14 @@ cd $DITA_OT
 bin/ant -f integrator.xml
 cd ../..
 
+export FEEDBACK_FILE=`realpath feedback-install.xml`
+echo $FEEDBACK_FILE
+
 pwd
 
 sh $DITA_OT/bin/dita \
     --format=webhelp-responsive \
     --input=source/markdown-dita/garage.ditamap \
     --output=bin/out/webhelp \
-	-Dwebhelp.fragment.feedback=feedback-install.xml
+    -Dwebhelp.fragment.feedback=$FEEDBACK_FILE
 	
