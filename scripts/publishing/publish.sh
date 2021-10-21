@@ -51,8 +51,9 @@ cd $DITA_OT
 bin/ant -f integrator.xml
 cd ../..
 
-export FEEDBACK_FILE=`realpath feedback-install.xml`
+export FEEDBACK_FILE=`realpath scripts/publishing/feedback-install.xml`
 echo $FEEDBACK_FILE
+cat $FEEDBACK_FILE
 
 pwd
 
