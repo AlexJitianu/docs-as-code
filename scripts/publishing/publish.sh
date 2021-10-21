@@ -36,6 +36,7 @@ mkdir bin/plugins
 git clone https://github.com/oxygenxml/dita-reviewer-links bin/plugins/
 cp -R bin/plugins/com.oxygenxml.editlink $DITA_OT/plugins/
 
+export WELCOME="<div>Welcome</div>"
 # Send some parameters to the "editlink" plugin as system properties
 export ANT_OPTS="$ANT_OPTS -Deditlink.remote.ditamap.url=github://getFileContent/$USERNAME/$REPONAME/$BRANCH/source/markdown-dita/garage.ditamap -Deditlink.web.author.url=https://www.oxygenxml.com/oxygen-xml-web-author/"
 # Send parameters for the Webhelp styling.
