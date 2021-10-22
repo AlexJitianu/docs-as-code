@@ -38,7 +38,7 @@ cp -R bin/plugins/com.oxygenxml.editlink $DITA_OT/plugins/
 
 export WELCOME="<div>Welcome</div>"
 # Send some parameters to the "editlink" plugin as system properties
-export ANT_OPTS="$ANT_OPTS -Deditlink.remote.ditamap.url=github://getFileContent/$USERNAME/$REPONAME/$BRANCH/source/markdown-dita/garage.ditamap -Deditlink.web.author.url=https://www.oxygenxml.com/oxygen-xml-web-author/"
+export ANT_OPTS="$ANT_OPTS -Deditlink.remote.ditamap.url=github://getFileContent/$USERNAME/$REPONAME/$BRANCH/source/mobile-phone/mobilePhone.ditamap -Deditlink.web.author.url=https://www.oxygenxml.com/oxygen-xml-web-author/"
 # Send parameters for the Webhelp styling.
 export ANT_OPTS="$ANT_OPTS -Dwebhelp.fragment.welcome='$WELCOME'"
 
@@ -59,7 +59,7 @@ pwd
 
 sh $DITA_OT/bin/dita \
     --format=webhelp-responsive \
-    --input=source/markdown-dita/garage.ditamap \
+    --input=source/mobile-phone/mobilePhone.ditamap \
     --output=bin/out/webhelp \
     -Dwebhelp.fragment.feedback=$FEEDBACK_FILE
 	
