@@ -3,5 +3,7 @@
 <topic id="getting_started">
   <title>Getting Started</title>
   <shortdesc>Technical details.</shortdesc>
-  <body/>
+  <body>
+    <p>Main body</p>
+  </body>
 </topic>
