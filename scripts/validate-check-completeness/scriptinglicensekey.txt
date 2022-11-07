@@ -8,14 +8,14 @@ Category=Enterprise
 
 Component=Oxygen-Scripting
 
-Version=24
+Version=25
 
 Number_of_Licenses=1
 
-Date=10-19-2021
+Date=11-06-2022
 
 Trial=91
 
-SGN=MCwCFAQyLrZxtTn2ha9yim3fITUJGi7UAhRUNQtBjh0qysmunVncbILAfaaYqg\=\=
+SGN=MCwCFHDomR84An+NQPm9y+XQBHimG5FgAhRIPrHZhxgSBD4+MaytgElhe6197g\=\=
 
 -------END-LICENSE-KEY-------
