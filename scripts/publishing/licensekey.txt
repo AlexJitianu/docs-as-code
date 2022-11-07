@@ -8,14 +8,14 @@ Category=Enterprise
 
 Component=Publishing-Engine
 
-Version=24
+Version=25
 
 Number_of_Licenses=1
 
-Date=10-19-2021
+Date=11-06-2022
 
 Trial=91
 
-SGN=MCwCFCFiswNlnbg/kbnqH7V9+QzDV+8oAhRd+DX3UussBgKI2zOAh/ioxb76ew\=\=
+SGN=MCwCFCODuUYsa4VX27sNzLroYgiDcm9OAhQHRwwuHVRER7tRa1Mz28Nl51Vv8A\=\=
 
 -------END-LICENSE-KEY-------
